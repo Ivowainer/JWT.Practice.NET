@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JWT.Practice.NET.props" />
+</Project>
